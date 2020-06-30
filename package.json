@@ -1,0 +1,25 @@
+{
+  "name": "heartbeat-cordova-plugin",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "heartbeat-cordova-plugin",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zyphex26/heartbeat-cordova-plugin.git"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Zyphex26/heartbeat-cordova-plugin/issues"
+  },
+  "homepage": "https://github.com/Zyphex26/heartbeat-cordova-plugin#readme"
+}
